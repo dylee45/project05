@@ -6,3 +6,4 @@ Project 05version1 completed
 Team Leader: <팀장학번>
 Project 05version1 completed
 2nd Team Member: <20231066>
+Project 05version2 completed
