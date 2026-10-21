@@ -2,3 +2,4 @@
 Team Leader: <김도형>
 Team Leader: <팀장학번>
 Project 05version1 completed
+2nd Team Member: <20231066>
